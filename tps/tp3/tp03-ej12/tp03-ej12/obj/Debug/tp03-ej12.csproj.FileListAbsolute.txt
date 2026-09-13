@@ -1,0 +1,10 @@
+C:\Users\leike\Documents\UAI\1er año\2do cuatri\programacion\tp03\tp03-ej12\tp03-ej12\bin\Debug\tp03-ej12.exe.config
+C:\Users\leike\Documents\UAI\1er año\2do cuatri\programacion\tp03\tp03-ej12\tp03-ej12\bin\Debug\tp03-ej12.exe
+C:\Users\leike\Documents\UAI\1er año\2do cuatri\programacion\tp03\tp03-ej12\tp03-ej12\bin\Debug\tp03-ej12.pdb
+C:\Users\leike\Documents\UAI\1er año\2do cuatri\programacion\tp03\tp03-ej12\tp03-ej12\obj\Debug\tp03-ej12.csproj.AssemblyReference.cache
+C:\Users\leike\Documents\UAI\1er año\2do cuatri\programacion\tp03\tp03-ej12\tp03-ej12\obj\Debug\tp03_ej12.Form1.resources
+C:\Users\leike\Documents\UAI\1er año\2do cuatri\programacion\tp03\tp03-ej12\tp03-ej12\obj\Debug\tp03_ej12.Properties.Resources.resources
+C:\Users\leike\Documents\UAI\1er año\2do cuatri\programacion\tp03\tp03-ej12\tp03-ej12\obj\Debug\tp03-ej12.csproj.GenerateResource.cache
+C:\Users\leike\Documents\UAI\1er año\2do cuatri\programacion\tp03\tp03-ej12\tp03-ej12\obj\Debug\tp03-ej12.csproj.CoreCompileInputs.cache
+C:\Users\leike\Documents\UAI\1er año\2do cuatri\programacion\tp03\tp03-ej12\tp03-ej12\obj\Debug\tp03-ej12.exe
+C:\Users\leike\Documents\UAI\1er año\2do cuatri\programacion\tp03\tp03-ej12\tp03-ej12\obj\Debug\tp03-ej12.pdb

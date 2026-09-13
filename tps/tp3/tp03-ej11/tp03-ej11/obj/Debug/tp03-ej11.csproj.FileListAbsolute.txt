@@ -1,0 +1,10 @@
+C:\Users\leike\Documents\UAI\1er año\2do cuatri\programacion\tp03\tp03-ej11\tp03-ej11\obj\Debug\tp03-ej11.csproj.AssemblyReference.cache
+C:\Users\leike\Documents\UAI\1er año\2do cuatri\programacion\tp03\tp03-ej11\tp03-ej11\obj\Debug\tp03_ej11.Form1.resources
+C:\Users\leike\Documents\UAI\1er año\2do cuatri\programacion\tp03\tp03-ej11\tp03-ej11\obj\Debug\tp03_ej11.Properties.Resources.resources
+C:\Users\leike\Documents\UAI\1er año\2do cuatri\programacion\tp03\tp03-ej11\tp03-ej11\obj\Debug\tp03-ej11.csproj.GenerateResource.cache
+C:\Users\leike\Documents\UAI\1er año\2do cuatri\programacion\tp03\tp03-ej11\tp03-ej11\obj\Debug\tp03-ej11.csproj.CoreCompileInputs.cache
+C:\Users\leike\Documents\UAI\1er año\2do cuatri\programacion\tp03\tp03-ej11\tp03-ej11\bin\Debug\tp03-ej11.exe.config
+C:\Users\leike\Documents\UAI\1er año\2do cuatri\programacion\tp03\tp03-ej11\tp03-ej11\bin\Debug\tp03-ej11.exe
+C:\Users\leike\Documents\UAI\1er año\2do cuatri\programacion\tp03\tp03-ej11\tp03-ej11\bin\Debug\tp03-ej11.pdb
+C:\Users\leike\Documents\UAI\1er año\2do cuatri\programacion\tp03\tp03-ej11\tp03-ej11\obj\Debug\tp03-ej11.exe
+C:\Users\leike\Documents\UAI\1er año\2do cuatri\programacion\tp03\tp03-ej11\tp03-ej11\obj\Debug\tp03-ej11.pdb
