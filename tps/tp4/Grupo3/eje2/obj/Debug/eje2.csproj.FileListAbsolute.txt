@@ -1,0 +1,11 @@
+C:\Users\leand\source\repos\TPCuatroListas\eje2\bin\Debug\eje2.exe.config
+C:\Users\leand\source\repos\TPCuatroListas\eje2\bin\Debug\eje2.exe
+C:\Users\leand\source\repos\TPCuatroListas\eje2\bin\Debug\eje2.pdb
+C:\Users\leand\source\repos\TPCuatroListas\eje2\obj\Debug\eje2.csproj.AssemblyReference.cache
+C:\Users\leand\source\repos\TPCuatroListas\eje2\obj\Debug\eje2.Form1.resources
+C:\Users\leand\source\repos\TPCuatroListas\eje2\obj\Debug\eje2.Properties.Resources.resources
+C:\Users\leand\source\repos\TPCuatroListas\eje2\obj\Debug\eje2.csproj.GenerateResource.cache
+C:\Users\leand\source\repos\TPCuatroListas\eje2\obj\Debug\eje2.csproj.CoreCompileInputs.cache
+C:\Users\leand\source\repos\TPCuatroListas\eje2\obj\Debug\eje2.exe
+C:\Users\leand\source\repos\TPCuatroListas\eje2\obj\Debug\eje2.pdb
+C:\Users\leand\source\repos\TPCuatroListas\eje2\obj\Debug\eje2.exe.config
