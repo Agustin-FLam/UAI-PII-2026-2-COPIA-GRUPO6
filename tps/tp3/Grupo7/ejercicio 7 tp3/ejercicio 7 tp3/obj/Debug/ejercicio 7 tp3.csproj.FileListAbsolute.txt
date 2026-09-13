@@ -1,0 +1,10 @@
+C:\Users\balta\Desktop\ejercicios tps c#\ejercicio 7 tp3\ejercicio 7 tp3\obj\Debug\ejercicio 7 tp3.csproj.AssemblyReference.cache
+C:\Users\balta\Desktop\ejercicios tps c#\ejercicio 7 tp3\ejercicio 7 tp3\obj\Debug\ejercicio_7_tp3.Form1.resources
+C:\Users\balta\Desktop\ejercicios tps c#\ejercicio 7 tp3\ejercicio 7 tp3\obj\Debug\ejercicio_7_tp3.Properties.Resources.resources
+C:\Users\balta\Desktop\ejercicios tps c#\ejercicio 7 tp3\ejercicio 7 tp3\obj\Debug\ejercicio 7 tp3.csproj.GenerateResource.cache
+C:\Users\balta\Desktop\ejercicios tps c#\ejercicio 7 tp3\ejercicio 7 tp3\obj\Debug\ejercicio 7 tp3.csproj.CoreCompileInputs.cache
+C:\Users\balta\Desktop\ejercicios tps c#\ejercicio 7 tp3\ejercicio 7 tp3\bin\Debug\ejercicio 7 tp3.exe.config
+C:\Users\balta\Desktop\ejercicios tps c#\ejercicio 7 tp3\ejercicio 7 tp3\bin\Debug\ejercicio 7 tp3.exe
+C:\Users\balta\Desktop\ejercicios tps c#\ejercicio 7 tp3\ejercicio 7 tp3\bin\Debug\ejercicio 7 tp3.pdb
+C:\Users\balta\Desktop\ejercicios tps c#\ejercicio 7 tp3\ejercicio 7 tp3\obj\Debug\ejercicio 7 tp3.exe
+C:\Users\balta\Desktop\ejercicios tps c#\ejercicio 7 tp3\ejercicio 7 tp3\obj\Debug\ejercicio 7 tp3.pdb

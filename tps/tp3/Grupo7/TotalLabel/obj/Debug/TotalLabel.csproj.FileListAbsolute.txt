@@ -1,0 +1,10 @@
+C:\Users\wilfr\OneDrive\Desktop\tp3 program 2\TotalLabel\bin\Debug\TotalLabel.exe.config
+C:\Users\wilfr\OneDrive\Desktop\tp3 program 2\TotalLabel\bin\Debug\TotalLabel.exe
+C:\Users\wilfr\OneDrive\Desktop\tp3 program 2\TotalLabel\bin\Debug\TotalLabel.pdb
+C:\Users\wilfr\OneDrive\Desktop\tp3 program 2\TotalLabel\obj\Debug\TotalLabel.csproj.AssemblyReference.cache
+C:\Users\wilfr\OneDrive\Desktop\tp3 program 2\TotalLabel\obj\Debug\TotalLabel.ResultadoLabel.resources
+C:\Users\wilfr\OneDrive\Desktop\tp3 program 2\TotalLabel\obj\Debug\TotalLabel.Properties.Resources.resources
+C:\Users\wilfr\OneDrive\Desktop\tp3 program 2\TotalLabel\obj\Debug\TotalLabel.csproj.GenerateResource.cache
+C:\Users\wilfr\OneDrive\Desktop\tp3 program 2\TotalLabel\obj\Debug\TotalLabel.csproj.CoreCompileInputs.cache
+C:\Users\wilfr\OneDrive\Desktop\tp3 program 2\TotalLabel\obj\Debug\TotalLabel.exe
+C:\Users\wilfr\OneDrive\Desktop\tp3 program 2\TotalLabel\obj\Debug\TotalLabel.pdb

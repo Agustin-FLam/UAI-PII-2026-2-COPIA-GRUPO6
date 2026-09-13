@@ -1,0 +1,10 @@
+C:\Users\wilfr\OneDrive\Desktop\tp3 program 2\SumarDosNumeros\obj\Debug\SumarDosNumeros.csproj.AssemblyReference.cache
+C:\Users\wilfr\OneDrive\Desktop\tp3 program 2\SumarDosNumeros\obj\Debug\SumarDosNumeros.Form1.resources
+C:\Users\wilfr\OneDrive\Desktop\tp3 program 2\SumarDosNumeros\obj\Debug\SumarDosNumeros.Properties.Resources.resources
+C:\Users\wilfr\OneDrive\Desktop\tp3 program 2\SumarDosNumeros\obj\Debug\SumarDosNumeros.csproj.GenerateResource.cache
+C:\Users\wilfr\OneDrive\Desktop\tp3 program 2\SumarDosNumeros\obj\Debug\SumarDosNumeros.csproj.CoreCompileInputs.cache
+C:\Users\wilfr\OneDrive\Desktop\tp3 program 2\SumarDosNumeros\bin\Debug\SumarDosNumeros.exe.config
+C:\Users\wilfr\OneDrive\Desktop\tp3 program 2\SumarDosNumeros\bin\Debug\SumarDosNumeros.exe
+C:\Users\wilfr\OneDrive\Desktop\tp3 program 2\SumarDosNumeros\bin\Debug\SumarDosNumeros.pdb
+C:\Users\wilfr\OneDrive\Desktop\tp3 program 2\SumarDosNumeros\obj\Debug\SumarDosNumeros.exe
+C:\Users\wilfr\OneDrive\Desktop\tp3 program 2\SumarDosNumeros\obj\Debug\SumarDosNumeros.pdb

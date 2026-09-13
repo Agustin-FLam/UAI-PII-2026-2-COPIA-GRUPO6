@@ -1,0 +1,10 @@
+C:\Users\botma\source\repos\TP11ej13\TP11ej13\bin\Debug\TP11ej13.exe.config
+C:\Users\botma\source\repos\TP11ej13\TP11ej13\bin\Debug\TP11ej13.exe
+C:\Users\botma\source\repos\TP11ej13\TP11ej13\bin\Debug\TP11ej13.pdb
+C:\Users\botma\source\repos\TP11ej13\TP11ej13\obj\Debug\TP11ej13.csproj.AssemblyReference.cache
+C:\Users\botma\source\repos\TP11ej13\TP11ej13\obj\Debug\TP11ej13.Form1.resources
+C:\Users\botma\source\repos\TP11ej13\TP11ej13\obj\Debug\TP11ej13.Properties.Resources.resources
+C:\Users\botma\source\repos\TP11ej13\TP11ej13\obj\Debug\TP11ej13.csproj.GenerateResource.cache
+C:\Users\botma\source\repos\TP11ej13\TP11ej13\obj\Debug\TP11ej13.csproj.CoreCompileInputs.cache
+C:\Users\botma\source\repos\TP11ej13\TP11ej13\obj\Debug\TP11ej13.exe
+C:\Users\botma\source\repos\TP11ej13\TP11ej13\obj\Debug\TP11ej13.pdb

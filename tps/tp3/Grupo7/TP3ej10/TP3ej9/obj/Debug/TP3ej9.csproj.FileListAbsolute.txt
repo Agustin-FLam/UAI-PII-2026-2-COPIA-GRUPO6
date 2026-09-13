@@ -1,0 +1,13 @@
+C:\Users\botma\source\repos\TP3ej9\TP3ej9\bin\Debug\TP3ej9.exe.config
+C:\Users\botma\source\repos\TP3ej9\TP3ej9\bin\Debug\TP3ej9.exe
+C:\Users\botma\source\repos\TP3ej9\TP3ej9\bin\Debug\TP3ej9.pdb
+C:\Users\botma\source\repos\TP3ej9\TP3ej9\obj\Debug\TP3ej9.csproj.AssemblyReference.cache
+C:\Users\botma\source\repos\TP3ej9\TP3ej9\obj\Debug\TP3ej9.Form1.resources
+C:\Users\botma\source\repos\TP3ej9\TP3ej9\obj\Debug\TP3ej9.Properties.Resources.resources
+C:\Users\botma\source\repos\TP3ej9\TP3ej9\obj\Debug\TP3ej9.csproj.GenerateResource.cache
+C:\Users\botma\source\repos\TP3ej9\TP3ej9\obj\Debug\TP3ej9.csproj.CoreCompileInputs.cache
+C:\Users\botma\source\repos\TP3ej9\TP3ej9\obj\Debug\TP3ej9.exe
+C:\Users\botma\source\repos\TP3ej9\TP3ej9\obj\Debug\TP3ej9.pdb
+C:\Users\User710\Documents\GitHub\UAI-PII-2026-2\tps\tp3\Grupo7\TP3ej10\TP3ej9\obj\Debug\TP3ej9.csproj.AssemblyReference.cache
+C:\Users\User710\Documents\GitHub\UAI-PII-2026-2\tps\tp3\Grupo7\TP3ej10\TP3ej9\obj\Debug\TP3ej9.exe
+C:\Users\User710\Documents\GitHub\UAI-PII-2026-2\tps\tp3\Grupo7\TP3ej10\TP3ej9\obj\Debug\TP3ej9.pdb

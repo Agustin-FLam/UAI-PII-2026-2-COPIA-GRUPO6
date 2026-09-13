@@ -1,0 +1,10 @@
+C:\Users\botma\source\repos\TP3ej10\TP3ej10\obj\Debug\TP3ej10.csproj.AssemblyReference.cache
+C:\Users\botma\source\repos\TP3ej10\TP3ej10\obj\Debug\TP3ej10.Form1.resources
+C:\Users\botma\source\repos\TP3ej10\TP3ej10\obj\Debug\TP3ej10.Properties.Resources.resources
+C:\Users\botma\source\repos\TP3ej10\TP3ej10\obj\Debug\TP3ej10.csproj.GenerateResource.cache
+C:\Users\botma\source\repos\TP3ej10\TP3ej10\obj\Debug\TP3ej10.csproj.CoreCompileInputs.cache
+C:\Users\botma\source\repos\TP3ej10\TP3ej10\bin\Debug\TP3ej10.exe.config
+C:\Users\botma\source\repos\TP3ej10\TP3ej10\bin\Debug\TP3ej10.exe
+C:\Users\botma\source\repos\TP3ej10\TP3ej10\bin\Debug\TP3ej10.pdb
+C:\Users\botma\source\repos\TP3ej10\TP3ej10\obj\Debug\TP3ej10.exe
+C:\Users\botma\source\repos\TP3ej10\TP3ej10\obj\Debug\TP3ej10.pdb

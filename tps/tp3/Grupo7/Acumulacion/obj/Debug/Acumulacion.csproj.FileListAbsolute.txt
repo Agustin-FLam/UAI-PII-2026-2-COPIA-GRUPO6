@@ -1,0 +1,10 @@
+C:\Users\wilfr\OneDrive\Desktop\tp3 program 2\Acumulacion\obj\Debug\Acumulacion.csproj.AssemblyReference.cache
+C:\Users\wilfr\OneDrive\Desktop\tp3 program 2\Acumulacion\obj\Debug\Acumulacion.Properties.Resources.resources
+C:\Users\wilfr\OneDrive\Desktop\tp3 program 2\Acumulacion\obj\Debug\Acumulacion.csproj.GenerateResource.cache
+C:\Users\wilfr\OneDrive\Desktop\tp3 program 2\Acumulacion\obj\Debug\Acumulacion.csproj.CoreCompileInputs.cache
+C:\Users\wilfr\OneDrive\Desktop\tp3 program 2\Acumulacion\bin\Debug\Acumulacion.exe.config
+C:\Users\wilfr\OneDrive\Desktop\tp3 program 2\Acumulacion\bin\Debug\Acumulacion.exe
+C:\Users\wilfr\OneDrive\Desktop\tp3 program 2\Acumulacion\bin\Debug\Acumulacion.pdb
+C:\Users\wilfr\OneDrive\Desktop\tp3 program 2\Acumulacion\obj\Debug\Acumulacion.ListaNumeros.resources
+C:\Users\wilfr\OneDrive\Desktop\tp3 program 2\Acumulacion\obj\Debug\Acumulacion.exe
+C:\Users\wilfr\OneDrive\Desktop\tp3 program 2\Acumulacion\obj\Debug\Acumulacion.pdb
