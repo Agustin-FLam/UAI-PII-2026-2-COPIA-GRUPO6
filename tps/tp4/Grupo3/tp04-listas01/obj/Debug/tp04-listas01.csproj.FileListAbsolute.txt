@@ -1,0 +1,7 @@
+C:\Users\leike\Documents\UAI\1er año\2do cuatri\programacion\tp04\tp04-listas01\tp04-listas01\bin\Debug\tp04-listas01.exe.config
+C:\Users\leike\Documents\UAI\1er año\2do cuatri\programacion\tp04\tp04-listas01\tp04-listas01\bin\Debug\tp04-listas01.exe
+C:\Users\leike\Documents\UAI\1er año\2do cuatri\programacion\tp04\tp04-listas01\tp04-listas01\bin\Debug\tp04-listas01.pdb
+C:\Users\leike\Documents\UAI\1er año\2do cuatri\programacion\tp04\tp04-listas01\tp04-listas01\obj\Debug\tp04-listas01.csproj.AssemblyReference.cache
+C:\Users\leike\Documents\UAI\1er año\2do cuatri\programacion\tp04\tp04-listas01\tp04-listas01\obj\Debug\tp04-listas01.csproj.CoreCompileInputs.cache
+C:\Users\leike\Documents\UAI\1er año\2do cuatri\programacion\tp04\tp04-listas01\tp04-listas01\obj\Debug\tp04-listas01.exe
+C:\Users\leike\Documents\UAI\1er año\2do cuatri\programacion\tp04\tp04-listas01\tp04-listas01\obj\Debug\tp04-listas01.pdb
